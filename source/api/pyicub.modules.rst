@@ -44,6 +44,14 @@ pyicub.modules.faceLandmarks module
    :undoc-members:
    :show-inheritance:
 
+pyicub.modules.llm module
+-------------------------
+
+.. automodule:: pyicub.modules.llm
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 pyicub.modules.speech module
 ----------------------------
 
