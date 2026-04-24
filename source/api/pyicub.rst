@@ -10,6 +10,7 @@ Subpackages
    pyicub.controllers
    pyicub.core
    pyicub.modules
+   pyicub.yarp
 
 Submodules
 ----------
